@@ -1,4 +1,4 @@
-name: Podcast generator
+name: Podcast generator by Arslan Yousaf
 author: "Arslan Yousaf"
 description: "Generate podcast from YAML feed"
 runs:
